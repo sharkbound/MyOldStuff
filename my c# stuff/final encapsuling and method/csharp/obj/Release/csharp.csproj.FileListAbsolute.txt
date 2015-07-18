@@ -1,0 +1,6 @@
+C:\Users\8\Desktop\my c# stuff\final encapsuling and method\csharp\bin\Release\csharp.exe.config
+C:\Users\8\Desktop\my c# stuff\final encapsuling and method\csharp\bin\Release\csharp.exe
+C:\Users\8\Desktop\my c# stuff\final encapsuling and method\csharp\bin\Release\csharp.pdb
+C:\Users\8\Desktop\my c# stuff\final encapsuling and method\csharp\obj\Release\csharp.csprojResolveAssemblyReference.cache
+C:\Users\8\Desktop\my c# stuff\final encapsuling and method\csharp\obj\Release\csharp.exe
+C:\Users\8\Desktop\my c# stuff\final encapsuling and method\csharp\obj\Release\csharp.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio 2013\Projects\calulator\calulator\bin\Release\calulator.exe.config
+E:\Visual Studio 2013\Projects\calulator\calulator\bin\Release\calulator.exe
+E:\Visual Studio 2013\Projects\calulator\calulator\bin\Release\calulator.pdb
+E:\Visual Studio 2013\Projects\calulator\calulator\obj\Release\calulator.exe
+E:\Visual Studio 2013\Projects\calulator\calulator\obj\Release\calulator.pdb

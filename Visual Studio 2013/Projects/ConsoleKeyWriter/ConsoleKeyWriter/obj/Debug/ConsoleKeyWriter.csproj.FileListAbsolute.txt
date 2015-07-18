@@ -1,0 +1,6 @@
+E:\Visual Studio 2013\Projects\ConsoleKeyWriter\ConsoleKeyWriter\bin\Debug\ConsoleKeyWriter.exe.config
+E:\Visual Studio 2013\Projects\ConsoleKeyWriter\ConsoleKeyWriter\bin\Debug\ConsoleKeyWriter.exe
+E:\Visual Studio 2013\Projects\ConsoleKeyWriter\ConsoleKeyWriter\bin\Debug\ConsoleKeyWriter.pdb
+E:\Visual Studio 2013\Projects\ConsoleKeyWriter\ConsoleKeyWriter\obj\Debug\ConsoleKeyWriter.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ConsoleKeyWriter\ConsoleKeyWriter\obj\Debug\ConsoleKeyWriter.exe
+E:\Visual Studio 2013\Projects\ConsoleKeyWriter\ConsoleKeyWriter\obj\Debug\ConsoleKeyWriter.pdb

@@ -1,0 +1,9 @@
+c:\users\8\documents\visual studio 2013\Projects\csharp\csharp\bin\Debug\csharp.exe.config
+c:\users\8\documents\visual studio 2013\Projects\csharp\csharp\bin\Debug\csharp.exe
+c:\users\8\documents\visual studio 2013\Projects\csharp\csharp\bin\Debug\csharp.pdb
+c:\users\8\documents\visual studio 2013\Projects\csharp\csharp\obj\Debug\csharp.csprojResolveAssemblyReference.cache
+c:\users\8\documents\visual studio 2013\Projects\csharp\csharp\obj\Debug\csharp.exe
+c:\users\8\documents\visual studio 2013\Projects\csharp\csharp\obj\Debug\csharp.pdb
+C:\Users\8\Desktop\my c# stuff\encapsuling and using methods\csharp\bin\Debug\csharp.exe.config
+C:\Users\8\Desktop\my c# stuff\encapsuling and using methods\csharp\obj\Debug\csharp.exe
+C:\Users\8\Desktop\my c# stuff\encapsuling and using methods\csharp\obj\Debug\csharp.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio 2013\Projects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+E:\Visual Studio 2013\Projects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+E:\Visual Studio 2013\Projects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+E:\Visual Studio 2013\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+E:\Visual Studio 2013\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb

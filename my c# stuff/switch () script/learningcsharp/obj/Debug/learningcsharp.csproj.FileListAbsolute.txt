@@ -1,0 +1,12 @@
+c:\users\8\documents\visual studio 2013\Projects\learningcsharp\learningcsharp\bin\Debug\learningcsharp.exe.config
+c:\users\8\documents\visual studio 2013\Projects\learningcsharp\learningcsharp\bin\Debug\learningcsharp.exe
+c:\users\8\documents\visual studio 2013\Projects\learningcsharp\learningcsharp\bin\Debug\learningcsharp.pdb
+c:\users\8\documents\visual studio 2013\Projects\learningcsharp\learningcsharp\obj\Debug\learningcsharp.exe
+c:\users\8\documents\visual studio 2013\Projects\learningcsharp\learningcsharp\obj\Debug\learningcsharp.pdb
+C:\Users\8\documents\visual studio 2013\Projects\learningcsharp\learningcsharp\obj\Debug\learningcsharp.csprojResolveAssemblyReference.cache
+E:\my c# stuff\switch () script\learningcsharp\bin\Debug\learningcsharp.exe.config
+E:\my c# stuff\switch () script\learningcsharp\obj\Debug\learningcsharp.exe
+E:\my c# stuff\switch () script\learningcsharp\obj\Debug\learningcsharp.pdb
+E:\my c# stuff\switch () script\learningcsharp\bin\Debug\learningcsharp.exe
+E:\my c# stuff\switch () script\learningcsharp\bin\Debug\learningcsharp.pdb
+E:\my c# stuff\switch () script\learningcsharp\obj\Debug\learningcsharp.csprojResolveAssemblyReference.cache

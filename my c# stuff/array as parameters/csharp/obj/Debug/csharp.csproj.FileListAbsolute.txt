@@ -1,0 +1,9 @@
+E:\Visual Studio 2013\Projects\csharp\csharp\bin\Debug\csharp.exe.config
+E:\Visual Studio 2013\Projects\csharp\csharp\bin\Debug\csharp.exe
+E:\Visual Studio 2013\Projects\csharp\csharp\bin\Debug\csharp.pdb
+E:\Visual Studio 2013\Projects\csharp\csharp\obj\Debug\csharp.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\csharp\csharp\obj\Debug\csharp.exe
+E:\Visual Studio 2013\Projects\csharp\csharp\obj\Debug\csharp.pdb
+E:\old stuff\my c# stuff\array as parameters\csharp\bin\Debug\csharp.exe.config
+E:\old stuff\my c# stuff\array as parameters\csharp\obj\Debug\csharp.exe
+E:\old stuff\my c# stuff\array as parameters\csharp\obj\Debug\csharp.pdb

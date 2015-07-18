@@ -1,0 +1,5 @@
+this is the text before its reversed:
+test files are pretty cool!!!!
+
+this is the text reversed:
+!!!!looc ytterp era selif tset
